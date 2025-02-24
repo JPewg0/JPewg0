@@ -38,12 +38,4 @@ esse é meu repósitório de projetos que fiz ao longo do curso.
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
 />
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png"
-/>
 
