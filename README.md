@@ -2,7 +2,7 @@
 
 **Analista e Desenvolvedor**
 
-Sou o João Pedro, tenho 22 anos e moro em São Paulo. Estou no último semestre de Análise e desenvolvimento de sistema da Fatec de São Caetano,
+Sou o João Pedro, tenho 23 anos e moro em São Paulo. Estou no último semestre de Análise e desenvolvimento de sistema da Fatec de São Caetano,
 esse é meu repósitório de projetos que fiz ao longo do curso.
 
 ### 🤖 Linguagens e Tecnologias
